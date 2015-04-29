@@ -1,23 +1,9 @@
 {
-  "name": "triadic",
-  "version": "0.0.0",
-  "authors": [
-    "ALexandre Martinez <alexandre.martinez76@gmail.com>"
-  ],
-  "description": "Triadic input component allows continuous choice between three axis.",
-  "main": "triadic.directive.js",
-  "keywords": [
-    "triadic",
-    "sensemaking"
-  ],
-  "license": "MIT",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "client/bower_components",
-    "test",
-    "tests"
-  ]
+	"name": "angular-triadic",
+	"version": "0.0.0",
+	"authors": [
+		"Alexandre Martinez <alexandre.martinez76@gmail.com>"
+	],
+	"description": "Triadic input component allows continuous choice between three axis.",
+	"main": "./triadic.directive.js"
 }
